@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ChannelManager	channel_manager.py	/^class ChannelManager(object):$/;"	c
+ChannelManager	node.py	/^from channel_manager import ChannelManager$/;"	i
+ExceptionHandler	exception_handler.py	/^class ExceptionHandler(object):$/;"	c
+ExceptionHandler	node.py	/^from exception_handler import ExceptionHandler$/;"	i
+KeyExchange	key_exchange.py	/^class KeyExchange(object):$/;"	c
+KeyExchange	node.py	/^from key_exchange import KeyExchange$/;"	i
+KeyStore	key_store.py	/^class KeyStore(object):$/;"	c
+KeyStore	node.py	/^from key_store import KeyStore$/;"	i
+Network	network.py	/^class Network(object):$/;"	c
+Network	node.py	/^from network import Network$/;"	i
+Node	node.py	/^class Node(object):$/;"	c
+__init__	channel_manager.py	/^    def __init__(self):$/;"	m	class:ChannelManager
+__init__	exception_handler.py	/^    def __init__(self):$/;"	m	class:ExceptionHandler
+__init__	key_exchange.py	/^    def __init__(self):$/;"	m	class:KeyExchange
+__init__	key_store.py	/^    def __init__(self):$/;"	m	class:KeyStore
+__init__	network.py	/^    def __init__(self):$/;"	m	class:Network
+__init__	node.py	/^    def __init__(self):$/;"	m	class:Node
+node_1	node.py	/^    node_1 = Node()$/;"	v	class:Node
+run	node.py	/^    def run(self):$/;"	m	class:Node
